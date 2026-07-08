@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0051-n-queens) |
 | [0875-koko-eating-bananas](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
@@ -23,4 +24,8 @@
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
