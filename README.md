@@ -30,4 +30,20 @@
 | ------- |
 | [0046-permutations](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0051-n-queens) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
