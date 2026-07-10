@@ -27,7 +27,7 @@ class Solution {
         return count;
     }
     public void dfs(char[][] grid,boolean[][]arr,int r,int c,int er,int ec, Queue<Pair> q){
-        if(r<0||c<0||r>=er||c>=ec) return;
+        // if(r<0||c<0||r>=er||c>=ec) return;
         while(q.size()>0){
             Pair pop=q.remove();
             if(pop.row+1 < er &&grid[pop.row+1][pop.col]=='1' &&!arr[pop.row+1][pop.col]){
