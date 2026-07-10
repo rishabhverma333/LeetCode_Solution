@@ -20,6 +20,7 @@
 | [0051-n-queens](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0051-n-queens) |
 | [0200-number-of-islands](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0875-koko-eating-bananas](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -54,4 +56,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
