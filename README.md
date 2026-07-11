@@ -37,6 +37,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -79,4 +80,16 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0493-reverse-pairs) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
