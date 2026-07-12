@@ -39,11 +39,13 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -54,6 +56,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
@@ -92,4 +95,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0098-validate-binary-search-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
