@@ -13,12 +13,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0051-n-queens) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0493-reverse-pairs](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
