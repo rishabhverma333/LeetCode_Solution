@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0051-n-queens) |
 | [0200-number-of-islands](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0200-number-of-islands) |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0207-course-schedule) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
