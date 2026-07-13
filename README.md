@@ -21,6 +21,7 @@
 | [0046-permutations](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0493-reverse-pairs](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
@@ -69,6 +70,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -106,4 +108,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
