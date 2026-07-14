@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0011-container-with-most-water) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
