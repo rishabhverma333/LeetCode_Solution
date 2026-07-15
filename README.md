@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Array
 |  |
@@ -22,6 +24,7 @@
 | [0001-two-sum](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,4 +133,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
