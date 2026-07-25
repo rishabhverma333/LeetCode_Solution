@@ -8,10 +8,12 @@
 | [0011-container-with-most-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0567-permutation-in-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -141,4 +144,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
