@@ -32,6 +32,7 @@
 | [0042-trapping-rain-water](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0200-number-of-islands) |
@@ -45,6 +46,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0493-reverse-pairs](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -80,6 +82,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
