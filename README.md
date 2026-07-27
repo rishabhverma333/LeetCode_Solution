@@ -39,6 +39,7 @@
 | [0239-sliding-window-maximum](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
@@ -126,6 +127,7 @@
 | [0169-majority-element](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0567-permutation-in-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +160,7 @@
 | [0239-sliding-window-maximum](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0567-permutation-in-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
 |  |
