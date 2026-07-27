@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0076-minimum-window-substring](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0567-permutation-in-string) |
@@ -151,6 +153,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0567-permutation-in-string) |
