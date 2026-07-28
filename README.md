@@ -38,6 +38,7 @@
 | [0200-number-of-islands](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0992-subarrays-with-k-different-integers) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -84,11 +86,13 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/rishabhverma333/LeetCode_Solution/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
